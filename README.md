@@ -1,2 +1,2 @@
 # WSK
-Web Sistem dan Keamanan
+Web System and Security
