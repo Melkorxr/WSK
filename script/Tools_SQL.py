@@ -208,5 +208,7 @@ if __name__ == "__main__":
     main_loop()
 
 
-# Use it wisely, i'm not responsible for any damage or loss.
-# Copyright Melkorxr. See another project on my github (github.com/Melkorxr).
+# © 2025 Melkorxr. All rights reserved.  
+# Use this script responsibly and only for authorized testing purposes.  
+# The author is not responsible for any damage or loss resulting from misuse.  
+# Visit: https://github.com/Melkorxr
